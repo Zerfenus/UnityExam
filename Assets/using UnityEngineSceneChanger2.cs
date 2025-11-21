@@ -1,10 +1,10 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneChanger : MonoBehaviour
+public class SceneChanger2 : MonoBehaviour
 {
     public void NextScene()
     {
-        SceneManager.LoadScene("StoryScene");
+        SceneManager.LoadScene("GameField");
     }
 }
