@@ -553,7 +553,7 @@ GameObject:
   - component: {fileID: 577775957}
   - component: {fileID: 577775956}
   m_Layer: 0
-  m_Name: pokerMad_0
+  m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1407,7 +1407,7 @@ GameObject:
   - component: {fileID: 1056942724}
   - component: {fileID: 1056942726}
   m_Layer: 0
-  m_Name: grass_0
+  m_Name: SecondArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3166,10 +3166,10 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1650846330}
+  - {fileID: 1056942725}
   - {fileID: 1672095231}
+  - {fileID: 577775951}
   - {fileID: 1417171969}
+  - {fileID: 787299892}
   - {fileID: 723517506}
   - {fileID: 1299787749}
-  - {fileID: 787299892}
-  - {fileID: 1056942725}
-  - {fileID: 577775951}
