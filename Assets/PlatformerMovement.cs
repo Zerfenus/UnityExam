@@ -32,6 +32,8 @@ public class PlatformerMovement : MonoBehaviour
     private bool isGrounded;
 
     [SerializeField] private Animator animator;
+
+    [SerializeField] private string tag;
     
     void Awake()
     {
