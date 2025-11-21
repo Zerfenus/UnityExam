@@ -152,6 +152,7 @@ public class PlatformerMovement : MonoBehaviour
         if (controlEnabled)
         {
             moveInput = context.ReadValue<Vector2>().normalized;
+            
         }
         else
         {
